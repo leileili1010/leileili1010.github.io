@@ -1,6 +1,29 @@
 .peer-img {
-    width: 80px; /* Adjust the size as needed */
-    height: 80px; /* Adjust the size as needed */
+    width: 80px; 
+    height: 80px; 
     border-radius: 50%;
-    object-fit: cover /* Ensure the image covers the entire circle */
+    object-fit: cover
+}
+
+
+.project {
+    width:350px;
+    min-height: 400px;
+    object-fit: cover;
+    overflow: hidden;
+   
+   
+}
+
+.project-img {
+    width:350px;
+    min-height: 400px;
+    object-fit: cover;
+   
+}
+
+.projects {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
 }
