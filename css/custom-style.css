@@ -1,6 +1,6 @@
-.profile-img {
-    width: 100px; /* Adjust the size as needed */
-    height: 100px; /* Adjust the size as needed */
+.peer-img {
+    width: 80px; /* Adjust the size as needed */
+    height: 80px; /* Adjust the size as needed */
     border-radius: 50%;
-    object-fit:contain /* Ensure the image covers the entire circle */
+    object-fit: cover /* Ensure the image covers the entire circle */
 }
